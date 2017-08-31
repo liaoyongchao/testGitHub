@@ -1,0 +1,8 @@
+org/itachi/cms/repository/UserGroupRelRepository.class
+org/itachi/cms/repository/AdminUserGroupCheckRepository.class
+org/itachi/cms/repository/TestRepository.class
+org/itachi/cms/repository/UserRepository.class
+org/itachi/cms/repository/GroupRoleRelRepository.class
+org/itachi/cms/repository/AdminUserGroupRepository.class
+org/itachi/cms/repository/AdminUserRepository.class
+org/itachi/cms/repository/RoleRepository.class

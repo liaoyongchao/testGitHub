@@ -1,0 +1,4 @@
+org/itachi/remote/HelloRemoteHystrix.class
+org/itachi/ConsumerApplication.class
+org/itachi/controller/ConsumerController.class
+org/itachi/remote/HelloRemote.class

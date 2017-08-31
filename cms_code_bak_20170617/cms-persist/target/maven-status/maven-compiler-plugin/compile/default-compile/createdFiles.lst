@@ -1,0 +1,9 @@
+org/itachi/cms/mapper/RoleMapper.class
+org/itachi/cms/mapper/AdminUserMapper.class
+org/itachi/cms/mapper/AdminUserGroupMapper.class
+org/itachi/cms/mapper/UserMapper.class
+org/itachi/cms/mapper/UserGroupRelMapper.class
+org/itachi/cms/mapper/GroupRoleRelMapper.class
+org/itachi/cms/mapper/AdmusergroupcheckMapper.class
+org/itachi/cms/mapper/TestMapper.class
+org/itachi/cms/mapper/RoleTreeMapper.class

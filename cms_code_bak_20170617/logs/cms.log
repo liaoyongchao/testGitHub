@@ -1,0 +1,1 @@
+2017-08-20 16:14:52,794 INFO o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext [Thread-3] Closing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@470734c3: startup date [Sat Aug 19 10:19:50 HKT 2017]; root of context hierarchy
